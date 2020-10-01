@@ -1,0 +1,4 @@
+import os
+
+TWITTER_CLIENT_ID = ''
+TWITTER_CLIENT_SECRET = ''
