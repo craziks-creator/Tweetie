@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+{% extends "base.html" %}
+{% block %}
 
 <head>
 
@@ -71,14 +71,4 @@
             <li><b>/error</b> : If you messed up something (like trying to analyze before logging in :p )</li>
           </ol>
 
-      </div>
-    </div>
-  </div>
-
-  <!-- Bootstrap core JavaScript -->
-  <script src="{{ url_for('static', filename='jquery/jquery.slim.min.js') }}"></script>
-  <script src="{{ url_for('static', filename='bootstrap/js/bootstrap.bundle.min.js') }}"></script>
-
-</body>
-
-</html>
+{% endblock %}   
