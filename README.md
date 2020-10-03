@@ -1,4 +1,6 @@
 # Tweetie
+# Django Implementation : https://github.com/pawangeek/Tweetie2
+
 ## *Introduction*
 
 ### Summary
@@ -25,15 +27,16 @@
 >   - [Flask 1.1.2](https://pypi.org/project/Flask/)
 >   - [Authlib 0.14.3](https://authlib.org/)
 >  <br/>
->
 > - FRONTEND
 >   - [JQuery](https://code.jquery.com/)
 >   - [Bootstrap 4.5](https://getbootstrap.com/docs/4.5/getting-started/download/)
 >  <br/>
->
 > - Database
->   - [Heroky Postgre (for Deployment)](https://www.heroku.com/postgres)
+>   - [Heroky Postgres](https://www.heroku.com/postgres)
 >   - [SQLAlchemy (As ORM)](https://www.sqlalchemy.org/)
+>  <br/>
+> - Deploy
+> 	- [Heroku](https://dashboard.heroku.com/)
 
 ## Project Structure
 
